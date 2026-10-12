@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Balle de tennis">
+  <circle cx="32" cy="32" r="30" fill="#FAE60A"/>
+  <path d="M8 14c12 6 18 14 18 18s-6 12-18 18" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M56 14c-12 6-18 14-18 18s6 12 18 18" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>
